@@ -20,8 +20,6 @@ A modern, responsive Job Portal frontend built using **React.js** and **Tailwind
 ## 🌐 Live Demo
 👉 https://job-portal-frontend-seven-topaz.vercel.app
 
-## 📂 Screenshots
-(Add screenshots of Home page, Dashboard, and Job Details page)
 
 ## 👩‍💻 Author
 **Khushi Awasthi**  
